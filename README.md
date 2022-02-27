@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethanfree23
 - 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning JavaScript and Ruby on Rails
-- 💞️ I’m looking to collaborate on projects that will earn me money
+- 🌱 I’m currently seeking employment in full-stack development
+- 💞️ I’m looking to collaborate on projects that users will crave
 - 📫 How to reach me message me on GitHub.
 
 <!---
