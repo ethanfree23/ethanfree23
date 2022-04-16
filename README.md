@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethanfree23
 - 👀 I’m interested in entrepreneurship
 - 🌱 I’m currently seeking employment in full-stack development
-- 💞️ I’m looking to collaborate on projects that users will crave
+- 💞️ I’m looking to collaborate on projects that can help micro-entrepreneurs succeed more!
 - 📫 How to reach me message me on GitHub.
 
 <!---
