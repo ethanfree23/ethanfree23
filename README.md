@@ -1,9 +1,9 @@
-Welcome All! I am so happy to finally be coding! Since starting roughly 6 months ago, I have learned React and Rails, along with Tailwind. I still have a lot to learn before I would consider myself a true developer, but committing myself to frequent improvement is the only path. My interests include business development (through a hyper-focus on customer success) and creating tools that help people earn money (gig economy). 
+Welcome All! My goal with coding is to ultimately create applications that bring people closer to life, whether that is through saving them time, connecting with others, or exploring the beautiful world we are born into. I love the idea of being able to create my own applications, as well as use my skills to create a means of income, whether through my own entrepreneurial endeavors, or freelancing. Currently, I am working on an artwork as a service startup as well as a customer service portal for machine manufacturers.  
 
 - 👋 Hi, I’m @ethanfree23
-- 👀 I’m interested in entrepreneurship, software development, and helping people utilize tools to their highest level.
-- 🌱 I’m currently seeking employment in full-stack development.
-- 💞️ I’m looking to collaborate on projects that can help micro-entrepreneurs succeed more!
+- 👀 I’m interested in entrepreneurship, software development, and getting more out of life through technology.
+- 🌱 I’m currently working on two startups!
+- 💞️ I’m looking to collaborate on projects that can become widely used products that generate tons & tons of million$ :)
 - 📫 How to reach me: ethanfree23@gmail.com -or- message me on GitHub.
 
 <!---
