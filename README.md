@@ -2,7 +2,7 @@ Welcome All! My goal with coding is to ultimately create applications that bring
 
 - 👋 Hi, I’m @ethanfree23
 - 👀 I’m interested in entrepreneurship, software development, and getting more out of life through technology.
-- 🌱 I’m currently working on two startups!
+- 🌱 I’m currently working on a B2B SaaS startup!
 - 💞️ I’m looking to collaborate on projects that can become widely used products that generate tons & tons of million$ :)
 - 📫 How to reach me: ethanfree23@gmail.com -or- message me on GitHub.
 
