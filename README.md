@@ -1,10 +1,9 @@
-Welcome All! My goal with coding is to ultimately create applications that bring people closer to life, whether that is through saving them time, connecting with others, or exploring the beautiful world we are born into. I love the idea of being able to create my own applications, as well as use my skills to create a means of income, whether through my own entrepreneurial endeavors, or freelancing. Currently, I am working on an artwork as a service startup as well as a customer service portal for machine manufacturers.  
+Hello World! My goal with coding is to give myself a shot at being an entrepreneur. With a background in sales, project management, and software engineering, I can take my ideas from a scratch piece of paper to a profitable business, all from my computer and phone. Our modern world has lowered the energy required to start a company and I want to take this an my opportunity to create cool products!
 
 - 👋 Hi, I’m @ethanfree23
 - 👀 I’m interested in entrepreneurship, software development, and getting more out of life through technology.
-- 🌱 I’m currently working on a B2B SaaS startup!
-- 💞️ I’m looking to collaborate on projects that can become widely used products that generate tons & tons of million$ :)
-- 📫 How to reach me: ethanfree23@gmail.com -or- message me on GitHub.
+- 🌱 I’m currently working on HubOEM: an industrial B2B SaaS startup!
+- 📫 How to reach me: ethanfree23@gmail.com
 
 <!---
 ethanfree23/ethanfree23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
